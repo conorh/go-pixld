@@ -12,7 +12,6 @@ import (
   "flag"
   "io"
   "image/jpeg"
-  "github.com/nfnt/resize"
 //  "image/png"
   "net/url"
 )
