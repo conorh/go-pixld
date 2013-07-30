@@ -5,10 +5,10 @@ An image resizing server written in Go.
 Note: still in development, but basic functionality working.
 
 TODO:
-1. Decode other image formats as well as png using image/png
-2. Use imagemagick convert for speed
-3. Tests for basic functionality
-4. More conversion types
+* Decode other image formats as well as png using image/png
+* Use imagemagick convert for speed
+* Tests for basic functionality
+* More conversion types
 
 == Usage
 
